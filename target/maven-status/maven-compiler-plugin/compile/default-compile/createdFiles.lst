@@ -1,0 +1,8 @@
+com\testingshastra\locators\Locators.class
+com\testingshastra\utility\PropertiesUtility.class
+com\testingshastra\base\TestBase.class
+com\testingshastra\Keyword.class
+com\testingshastra\locators\Locator.class
+com\testingshastra\utility\App.class
+com\testingshastra\utility\Locators.class
+com\testingshastra\error\InvalidBrowserError.class
